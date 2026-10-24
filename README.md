@@ -1,8 +1,8 @@
-<h2 align="left">"Hola mundo" mi nombre es Nelly 😎</h2>
+<h2 align="left">"Hello Word" my name is Stellar 😎</h2>
 
 ###
 
-<p align="left">Me conocen como "Stellar" o "Gatillo", soy una estudiante y aprendiz de programación y Desarrollo de Software, ademas de eso me gusta mucho jugar videojuegos😋</p>
+<p align="left">I go by "Stellar" or "Gatillo"; I am a student and an apprentice in programming and software development. Beyond that, I really enjoy playing and developing video games.</p>
 
 ###
 
@@ -57,15 +57,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/im_nelly2009/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/NellyEstelaRam1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://assembly-electronics.itch.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch logo"  />
-  </a>
   <a href="https://www.youtube.com/@ItsGatillo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
